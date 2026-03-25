@@ -1,1 +1,5 @@
-
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
+import MiniLoto from './miniloto'
+import Loto7 from './loto7'
